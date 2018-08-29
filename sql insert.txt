@@ -1,0 +1,1 @@
+insert into konsumen values ('ko','name','jalan','Bandung','024','','a','b','em','1')
